@@ -22,8 +22,8 @@ int main(){
         对空指针应用delete是安全的。”
 
     */
-
-
+   char flower[10] = "rose";
+   cout << flower[1] << "s are red\n";
 
     return 0;
 }
